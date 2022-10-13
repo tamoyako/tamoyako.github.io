@@ -1,4 +1,4 @@
-## Welcome！欢迎
+## Welcome！
 
 我可以使用[GitHub上的编辑器](https://github.com/tamoyako/tamoyako.github.io/edit/main/index.md) 在maintain 文件中维护和预览您网站的内容.我的天哪！那简直太棒了.
 
